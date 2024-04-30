@@ -37,6 +37,13 @@ This project will involve:
 - **Data Analysis and Visualization**: Employing data extraction techniques and tools like **Tableau** for visualizing and presenting insights.
 - **Market Research**: Integrating comprehensive market research to enhance understanding and strategy.
 
+## Team Collaboration
+
+Throughout this project, I had the opportunity to enhance not just my technical skills, but also my ability to **work collaboratively** within a diverse team and communicate complex data-driven insights in an accessible way to non-technical stakeholders.
+
+Working with a team on this project underscored the importance of clear and continuous communication, especially in a remote or diverse setting. Coordinating with colleagues from different backgrounds and with varying degrees of technical expertise helped me appreciate the nuances of effective teamwork. It reinforced the need for establishing regular updates and feedback loops, which ensured alignment on project goals and methodologies.
+
+
 ## Conclusion
 
 This repository is set up to guide strategic decisions through data-driven analysis and professional assessments. By exploring these elements, we aim to make a well-informed decision about our potential market expansion into Brazil.
