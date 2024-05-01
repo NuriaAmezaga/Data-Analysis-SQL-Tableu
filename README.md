@@ -1,4 +1,4 @@
-# Eniac - Exploring Market Expansion Opportunities 
+# Exploring Market Expansion Opportunities by SQL and Tableau
 
 ## Data Science Bootcamp Project - WBS Coding School
 
