@@ -1,4 +1,9 @@
-# Eniac - Exploring Market Expansion Opportunities for a Spanish Tech Company 
+# Eniac - Exploring Market Expansion Opportunities 
+
+## Data Science Bootcamp Project - WBS Coding School
+
+This project is part of my studies at the Data Science Bootcamp offered by WBS Coding School.
+
 
 ## Introduction
 
