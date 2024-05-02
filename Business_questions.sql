@@ -1,3 +1,5 @@
+#  ----------This is the data that Magist sent to Eniac----------------------------------------------------------
+
 USE magist;
 
 # 1 How many orders are there in the dataset? The orders table contains a row for each order, so this should be easy to find out!
