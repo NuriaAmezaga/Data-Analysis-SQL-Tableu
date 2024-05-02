@@ -9,7 +9,7 @@ This project is part of my studies at the Data Science Bootcamp offered by WBS C
 
 Welcome to the repository dedicated to Eniac's strategic exploration into the Brazilian market. Eniac is an established online marketplace from Spain. Founded over a decade ago, they have grown by maintaining a commitment to providing a diverse catalog of high-quality tech products at competitive prices, complemented by professional tech support and consultation services.
 
-In this period of expansion, Eniac is considering a collaboration with Magist, a Brazilian SaaS company known for its centralized order management systems and after-sales services. This repository contains all the analytical processes and data-driven insights needed to evaluate the potential success of this partnership.
+In this period of expansion, Eniac is considering a collaboration with Magist, a Brazilian company known for its centralized order management systems and after-sales services. This repository contains all the analytical processes and data-driven insights needed to evaluate the potential success of this partnership.
 
 ## Objective
 
