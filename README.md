@@ -1,4 +1,4 @@
-# Exploring Market Expansion Opportunities by SQL and Tableau
+# Exploring Market Expansion Opportunities by SQL and Tableau   
 
 ## Data Science Bootcamp Project - WBS Coding School
 
@@ -41,6 +41,8 @@ This project will involve:
 - **SQL Mastery**: Utilizing SQL to perform deep dives into database structures and query complex datasets.
 - **Data Analysis and Visualization**: Employing data extraction techniques and tools like **Tableau** for visualizing and presenting insights.
 - **Market Research**: Integrating comprehensive market research to enhance understanding and strategy.
+
+  ![image](https://github.com/NuriaAmezaga/Data-Analysis-SQL-Tableu/assets/168557674/19060e8d-15fd-445e-b514-a870dda7ce1d)
 
 ## Team Collaboration
 
